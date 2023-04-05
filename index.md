@@ -1,7 +1,7 @@
 # Welcome to the markdown test
 ## Images
-![cmdline git](./imgs/Screenshot%202023-04-05%20130723.png)
-![vscode git](./imgs/Screenshot%202023-04-05%20131959.png)
+![cmdline git](./screenshots/Screenshot%202023-04-05%20130723.png)
+![vscode git](./screenshots/Screenshot%202023-04-05%20131959.png)
 
 ## Styled Text
 This is **styled** *text*.
