@@ -18,7 +18,11 @@ There's [a youtube video](https://www.youtube.com/watch?v=rkZzg7Vowao)
 featuring Leslie Lamport where he relates the idea that math is to coding what 
 writing and ideas are to language. 
 
-> Leslie Lamport's Quote
+> Writing is something that involves mental effort; you're thinking about what 
+you're going to say. The words have some importance, but even they are 
+secondary to the ideas. In the same way, programs are built on ideas. They 
+have to do something, and what they're supposed to do is like what writing is 
+supposed to convey.
 
 Throughout my time at UC San Diego, I've come to subscribe to Lamport's application
 of this thinking to problems, math, and code. When I code, I try to the best of my ability to: 
