@@ -1,4 +1,4 @@
-![mid shot](./imgs/Ryan%20Lee%20Headshot.JPG)
+![mid shot](./imgs/Ryan%20Lee%20Headshot%20(1).jpg)
 # Welcome to my page!
 ```
 int main(void) {
