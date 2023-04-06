@@ -7,8 +7,8 @@ int main(void) {
 }
 ```
 
-[x] prints "Hello World!"
-[ ] exits with exit code 1
+- [x] prints "Hello World!"
+- [ ] exits with exit code 1
 
 ## Preface
 This webpage was created as an assignment for **UCSD's CSE 110 course**. Part of it
